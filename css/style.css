@@ -43,3 +43,22 @@ img{
     background-position: right top;
     background-attachment: fixed;
 }
+p.one{
+	border:solid;
+	color: white;
+	position: left;
+	border-color: red;
+	border-width: thick;
+}
+p.two{
+	border: dotted;
+	padding: 40px;
+	color: white;
+	border-color: green;
+	border-width: thick;
+}
+h3{
+	color: white;
+	font-size: 32px;
+
+}
