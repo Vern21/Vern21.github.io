@@ -1,4 +1,4 @@
-l{
+li{
 	display: inline-block;
 	margin: 30px;
 	padding: 0px;
@@ -7,13 +7,15 @@ l{
 
 h3{
 	text-align: center;
+	
 	font-size: 30px;
-	font-color: white;
+	
 
 
 }
 ul{
 	text-align: center;
+
 }
 body{
 	background-color: black;
@@ -24,10 +26,20 @@ button{
 }	
 
 h1{
+	font-style: bold;
 	text-align: center;
 	border: solid;
-	border-color: red
+	border-color: red;
+	color: white;
+	border-radius: 30%;
+	border-style: dashed;
+
 }
-#mtg{
-	background-image: url(images/magictg.jpg);
+
+img{
+	position: relative;
+}body {
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
 }
